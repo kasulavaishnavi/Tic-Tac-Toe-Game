@@ -11,8 +11,11 @@ Features
 - Minimalist design with interactive button effects.
 
 Technologies Used
+
 HTML5: For the game structure.
+
 CSS3: For styling and layout.
+
 JavaScript: For game logic and interactivity.
 
 ![game](https://github.com/user-attachments/assets/893aca84-85ba-48a7-9602-6a294b8902ee)
